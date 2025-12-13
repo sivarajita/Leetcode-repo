@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<string> validateCoupons(vector<string>& code, vector<string>& businessLine, vector<bool>& isActive) {
-    vector<string> validCoupons;
+        vector<string> validCoupons;
     map<string, int> businessOrder = {
         {"electronics", 0},
         {"grocery", 1},
@@ -26,6 +26,5 @@ public:
     }
 
     return validCoupons;
-}
-    
-    };
+    }
+};
