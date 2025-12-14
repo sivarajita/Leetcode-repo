@@ -1,6 +1,6 @@
 class Solution {
 public:
-   const int mod=1e9+7;
+   static const int mod = 1e9+7;
     int numberOfWays(string corridor) {
        vector<int> pos;
        for(int i=0;i<corridor.size();i++){
@@ -14,7 +14,7 @@ public:
        long res=1;
        for(int i=2;i<pos.size();i+=2){
         int len_of_gap=pos[i]-pos[i-1];
-        res=(res*len_of_gap) % mod;
+        res=(res*len_of_gap)%mod;
        }
        return res;
     }
