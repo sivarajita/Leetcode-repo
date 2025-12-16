@@ -1,6 +1,6 @@
 class Solution {
 public:
-vector<vector<int>> tree;
+      vector<vector<int>> tree;
 vector<int> buyPrice, sellPrice;
 int budget;
     int maxProfit(int n, vector<int>& present, vector<int>& future, vector<vector<int>>& hierarchy, int B) {
@@ -43,5 +43,4 @@ int budget;
         }
         return ans;
     }
-
 };
