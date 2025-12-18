@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long maxProfit(vector<int>& prices, vector<int>& strategy, int k) {
-          int n = prices.size();
+        int n = prices.size();
         vector<long long> s(n + 1), t(n + 1);
 
         for (int i = 1; i <= n; ++i) {
@@ -13,11 +13,9 @@ public:
 
         long long ans = s[n];  
         for (int i = k; i <= n; ++i) {
-            long long delta =
-                -(s[i] - s[i - k]) +     
-                (t[i] - t[i - k / 2]);  
+            long long delta = -(s[i] - s[i - k]) +  (t[i] - t[i - k / 2]);  
             ans = max(ans, s[n] + delta);
             }
         return ans;
-            }
+    }
 };
