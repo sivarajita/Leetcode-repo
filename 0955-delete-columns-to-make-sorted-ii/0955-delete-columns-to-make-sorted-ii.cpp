@@ -1,0 +1,30 @@
+class Solution {
+public:
+    int minDeletionSize(vector<string>& strs) {
+        int n=strs.size();
+        if(n<=1)
+        return 0;
+        int m=strs[0].size();
+        vector<bool> sorted(n-1,false);
+        int deletions=0;
+        for(int col=0;col<m;col++){
+            bool needdeletions=false;
+            for(int row=0;row<n-1;row++){
+                if(!sorted[row] && strs[row][col] > strs[row+1][col]){
+                    needdeletions=true;
+                    break;
+                }
+            }
+                if(needdeletions){
+                  deletions++;
+                  continue;
+                }
+                for(int row=0;row<n-1;row++){
+                    if(!sorted[row] && strs[row][col] < strs[row+1][col]) {
+                    sorted[row]=true;
+                    }
+                }
+            }
+        return deletions;
+    }
+};
