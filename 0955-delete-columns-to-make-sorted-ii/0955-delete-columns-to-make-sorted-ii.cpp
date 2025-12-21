@@ -8,21 +8,20 @@ public:
         vector<bool> sorted(n-1,false);
         int deletions=0;
         for(int col=0;col<m;col++){
-            bool needdeletions=false;
+            bool needdeletions = false;
             for(int row=0;row<n-1;row++){
-                if(!sorted[row] && strs[row][col] > strs[row+1][col]){
+                if(!sorted[row]&&strs[row][col]>strs[row+1][col]){
                     needdeletions=true;
                     break;
-                }
-            }
+                }}
                 if(needdeletions){
-                  deletions++;
-                  continue;
+                    deletions++;
+                    continue;
                 }
                 for(int row=0;row<n-1;row++){
-                    if(!sorted[row] && strs[row][col] < strs[row+1][col]) {
+                    if(!sorted[row]&&strs[row][col]<strs[row+1][col]){
                     sorted[row]=true;
-                    }
+                }
                 }
             }
         return deletions;
