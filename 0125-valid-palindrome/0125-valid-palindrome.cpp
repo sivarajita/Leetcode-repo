@@ -1,24 +1,26 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string cleaned;
-        
-        for (char c : s) {
-            if (isalnum(c)) {
-                cleaned += tolower(c);
+        int left=0,right=s.length()-1;
+        while(left<right){
+            while(left<right&&!alphaNum(s[left])){
+                left++;
             }
+            while(right>left&&!alphaNum(s[right])){
+                right--;
+            }
+            if(tolower(s[left]) !=  tolower(s[right])){
+                return false;
+            }
+            left++;
+            right--;
         }
-        return isPalindromeHelper(cleaned, 0);
+        return true;
     }
-
-private:
-    bool isPalindromeHelper(const string& s, int i) {
-        if (i >= s.size() / 2)
-            return true;
-
-        if (s[i] != s[s.size() - i - 1])
-            return false;
-
-        return isPalindromeHelper(s, i + 1);
+    bool alphaNum(char c){
+             return  (c>='A'&&c<='Z'||
+                  c>='a'&&c<='z'||
+                  c>='0'&&c<='9'    
+                  );
     }
 };
