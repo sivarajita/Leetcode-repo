@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
+| [2574-left-and-right-sum-differences](https://github.com/sivarajita/Leetcode-repo/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +67,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/sivarajita/Leetcode-repo/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/sivarajita/Leetcode-repo/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
