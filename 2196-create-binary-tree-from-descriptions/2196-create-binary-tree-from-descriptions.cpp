@@ -12,7 +12,7 @@
 class Solution {
 public:
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
-     unordered_map<int, TreeNode*> nodeMap;
+        unordered_map<int, TreeNode*> nodeMap;
         // Tracks all nodes that are children of some parent
         unordered_set<int> children;
 
@@ -50,6 +50,6 @@ public:
             }
         }
 
-        return nullptr;   
+        return nullptr;
     }
 };
