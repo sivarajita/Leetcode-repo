@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sivarajita/Leetcode-repo/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/sivarajita/Leetcode-repo/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sivarajita/Leetcode-repo/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0268-missing-number) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sivarajita/Leetcode-repo/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Math
 |  |
 | ------- |
@@ -73,4 +75,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/sivarajita/Leetcode-repo/tree/master/2574-left-and-right-sum-differences) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sivarajita/Leetcode-repo/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sivarajita/Leetcode-repo/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
