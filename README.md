@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sivarajita/Leetcode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/sivarajita/Leetcode-repo/tree/main/0125-valid-palindrome/) | Easy |
 ## Array
 |  |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sivarajita/Leetcode-repo/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sivarajita/Leetcode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/sivarajita/Leetcode-repo/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sivarajita/Leetcode-repo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sivarajita/Leetcode-repo/tree/master/0217-contains-duplicate) |
@@ -83,4 +85,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sivarajita/Leetcode-repo/tree/master/2196-create-binary-tree-from-descriptions) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sivarajita/Leetcode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
