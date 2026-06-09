@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sivarajita/Leetcode-repo/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/sivarajita/Leetcode-repo/tree/master/2574-left-and-right-sum-differences) |
+| [3689-maximum-total-subarray-value-i](https://github.com/sivarajita/Leetcode-repo/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,4 +90,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivarajita/Leetcode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/sivarajita/Leetcode-repo/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
