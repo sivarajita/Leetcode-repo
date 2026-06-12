@@ -1,5 +1,5 @@
 class Solution {
-    private:
+private:
     int LOG;
     vector<int> depth;
     vector<vector<int>> up;
@@ -97,6 +97,7 @@ public:
             // Number of ways is 2^(k - 1) % MOD
             answer.push_back(power(2, k - 1));
         }
-        return answer;
+
+        return answer;        
     }
 };
