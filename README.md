@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivarajita/Leetcode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/sivarajita/Leetcode-repo/tree/main/0125-valid-palindrome/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/sivarajita/Leetcode-repo/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sivarajita/Leetcode-repo/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/sivarajita/Leetcode-repo/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,4 +121,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/sivarajita/Leetcode-repo/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
