@@ -7,9 +7,9 @@ public:
                 result.push_back(c);
             }
             else if(c=='*'){
-               if(!result.empty()){
-                result.pop_back();
-               }
+                if(!result.empty()){
+                    result.pop_back();
+                }
             }
             else if(c=='#'){
                 result+=result;
