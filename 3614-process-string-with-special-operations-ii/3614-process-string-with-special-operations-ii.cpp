@@ -1,7 +1,7 @@
 class Solution {
 public:
     char processStr(string s, long long k) {
-       int n = s.length();
+        int n = s.length();
         vector<long long> lengths(n);
         long long curr_len = 0;
         
@@ -50,6 +50,6 @@ public:
             }
         }
         
-        return '.'; 
+        return '.';
     }
 };
