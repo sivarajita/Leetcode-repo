@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0268-missing-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/sivarajita/Leetcode-repo/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sivarajita/Leetcode-repo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search
