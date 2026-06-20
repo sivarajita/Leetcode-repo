@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
 | [1732-find-the-highest-altitude](https://github.com/sivarajita/Leetcode-repo/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/sivarajita/Leetcode-repo/tree/master/1840-maximum-building-height) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sivarajita/Leetcode-repo/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/sivarajita/Leetcode-repo/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0268-missing-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sivarajita/Leetcode-repo/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/sivarajita/Leetcode-repo/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sivarajita/Leetcode-repo/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sivarajita/Leetcode-repo/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0268-missing-number) |
+| [1840-maximum-building-height](https://github.com/sivarajita/Leetcode-repo/tree/master/1840-maximum-building-height) |
 ## Matrix
 |  |
 | ------- |
