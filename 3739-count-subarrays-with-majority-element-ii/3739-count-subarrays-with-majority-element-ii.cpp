@@ -46,6 +46,6 @@ public:
             update(currentPrefixSum + offset + 1, 1);
         }
         
-        return totalSubarrays;  
+        return totalSubarrays;   
     }
 };
