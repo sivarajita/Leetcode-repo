@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maximumLength(vector<int>& nums) {
-     unordered_map<long long, int> counts;
+        unordered_map<long long, int> counts;
         for (int num : nums) {
             counts[num]++;
         }
@@ -44,6 +44,6 @@ public:
             max_len = max(max_len, current_len);
         }
 
-        return max_len;   
+        return max_len;
     }
 };
