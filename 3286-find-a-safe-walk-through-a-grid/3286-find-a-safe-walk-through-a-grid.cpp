@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
-        int m = grid.size();
+       int m = grid.size();
         int n = grid[0].size();
         
         // Directions for moving up, down, left, right
@@ -52,6 +52,6 @@ public:
             }
         }
         
-        return false;
+        return false; 
     }
 };
