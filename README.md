@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
+| [1288-remove-covered-intervals](https://github.com/sivarajita/Leetcode-repo/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sivarajita/Leetcode-repo/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/sivarajita/Leetcode-repo/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sivarajita/Leetcode-repo/tree/master/1833-maximum-ice-cream-bars) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sivarajita/Leetcode-repo/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0268-missing-number) |
+| [1288-remove-covered-intervals](https://github.com/sivarajita/Leetcode-repo/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/sivarajita/Leetcode-repo/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/sivarajita/Leetcode-repo/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sivarajita/Leetcode-repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
