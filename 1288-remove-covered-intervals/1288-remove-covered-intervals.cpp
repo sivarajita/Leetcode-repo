@@ -1,7 +1,7 @@
 class Solution {
 public:
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
-        std::sort(intervals.begin(),intervals.end(),[](const std::vector<int>& a, const std::vector<int>& b){
+        std::sort(intervals.begin(),intervals.end(),[](const std::vector<int>& a,const std::vector<int>& b){
             if(a[0]==b[0]){
                 return a[1]>b[1];
 
