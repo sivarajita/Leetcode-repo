@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
-        vector<pair<int, int>> sorted_nodes(n);
+       vector<pair<int, int>> sorted_nodes(n);
         vector<int> original_to_sorted(n);
         for (int i = 0; i < n; ++i) {
             sorted_nodes[i] = {nums[i], i};
@@ -68,6 +68,6 @@ public:
             ans.push_back(steps + 1);
         }
 
-        return ans;
+        return ans; 
     }
 };
