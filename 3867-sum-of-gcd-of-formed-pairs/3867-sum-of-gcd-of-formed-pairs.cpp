@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long gcdSum(vector<int>& nums) {
-        int n = nums.size();
+      int n = nums.size();
         std::vector<int> prefixGcd(n);
         int current_max = 0;
         
@@ -27,6 +27,6 @@ public:
             right--;
         }
         
-        return total_sum;
+        return total_sum;  
     }
 };
