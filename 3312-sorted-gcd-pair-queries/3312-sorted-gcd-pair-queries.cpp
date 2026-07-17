@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> gcdValues(vector<int>& nums, vector<long long>& queries) {
-        int max_val = *max_element(nums.begin(), nums.end());
+       int max_val = *max_element(nums.begin(), nums.end());
         
         // Step 1: Count frequency of each number in nums
         vector<long long> count(max_val + 1, 0);
@@ -43,6 +43,6 @@ public:
             ans.push_back(distance(pref.begin(), it));
         }
         
-        return ans;
+        return ans; 
     }
 };
