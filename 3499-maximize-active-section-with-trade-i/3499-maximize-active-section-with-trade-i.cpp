@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxActiveSectionsAfterTrade(string s) {
-      int initialOnes = 0;
+        int initialOnes = 0;
         for (char c : s) {
             if (c == '1') initialOnes++;
         }
@@ -37,6 +37,6 @@ public:
             }
         }
 
-        return initialOnes + maxDelta;  
+        return initialOnes + maxDelta;
     }
 };
