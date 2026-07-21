@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
+| [0912-sort-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/sivarajita/Leetcode-repo/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sivarajita/Leetcode-repo/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sivarajita/Leetcode-repo/tree/master/1301-number-of-paths-with-max-score) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sivarajita/Leetcode-repo/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/sivarajita/Leetcode-repo/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sivarajita/Leetcode-repo/tree/master/1833-maximum-ice-cream-bars) |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sivarajita/Leetcode-repo/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sivarajita/Leetcode-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -194,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/0912-sort-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sivarajita/Leetcode-repo/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sivarajita/Leetcode-repo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -234,10 +238,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sivarajita/Leetcode-repo/tree/master/1833-maximum-ice-cream-bars) |
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sivarajita/Leetcode-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
@@ -287,4 +293,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sivarajita/Leetcode-repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
