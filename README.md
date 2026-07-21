@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivarajita/Leetcode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sivarajita/Leetcode-repo/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sivarajita/Leetcode-repo/tree/main/0125-valid-palindrome/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sivarajita/Leetcode-repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sivarajita/Leetcode-repo/tree/master/1189-maximum-number-of-balloons) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sivarajita/Leetcode-repo/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sivarajita/Leetcode-repo/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sivarajita/Leetcode-repo/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sivarajita/Leetcode-repo/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/sivarajita/Leetcode-repo/tree/master/0169-majority-element) |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/sivarajita/Leetcode-repo/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivarajita/Leetcode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sivarajita/Leetcode-repo/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sivarajita/Leetcode-repo/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sivarajita/Leetcode-repo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sivarajita/Leetcode-repo/tree/master/0217-contains-duplicate) |
@@ -119,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sivarajita/Leetcode-repo/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sivarajita/Leetcode-repo/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sivarajita/Leetcode-repo/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/0229-majority-element-ii) |
