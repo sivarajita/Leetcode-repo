@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> maxActiveSectionsAfterTrade(string s, vector<vector<int>>& queries) {
-        int n = s.size();
+      int n = s.size();
         int ones = ranges::count(s, '1');
 
         // maximal zero-blocks (inclusive ends), split into starts / ends
@@ -53,6 +53,6 @@ public:
         vector<int> ans;
         ans.reserve(queries.size());
         for (auto& q : queries) ans.push_back(ones + gain(q[0], q[1]));
-        return ans;
+        return ans;  
     }
 };
