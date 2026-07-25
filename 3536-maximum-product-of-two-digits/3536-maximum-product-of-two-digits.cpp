@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxProduct(int n) {
-       int max1 = 0;
+      int max1 = 0;
         int max2 = 0;
 
         while (n > 0) {
@@ -16,6 +16,6 @@ public:
             }
         }
 
-        return max1 * max2; 
+        return max1 * max2;  
     }
 };
