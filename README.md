@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0287-find-the-duplicate-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sivarajita/Leetcode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/sivarajita/Leetcode-repo/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sivarajita/Leetcode-repo/tree/master/1288-remove-covered-intervals) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sivarajita/Leetcode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sivarajita/Leetcode-repo/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/sivarajita/Leetcode-repo/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sivarajita/Leetcode-repo/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sivarajita/Leetcode-repo/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sivarajita/Leetcode-repo/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sivarajita/Leetcode-repo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/sivarajita/Leetcode-repo/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/1331-rank-transform-of-an-array) |
