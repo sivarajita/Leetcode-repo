@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/sivarajita/Leetcode-repo/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sivarajita/Leetcode-repo/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/sivarajita/Leetcode-repo/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sivarajita/Leetcode-repo/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/sivarajita/Leetcode-repo/tree/master/1840-maximum-building-height) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/sivarajita/Leetcode-repo/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sivarajita/Leetcode-repo/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/sivarajita/Leetcode-repo/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sivarajita/Leetcode-repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sivarajita/Leetcode-repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sivarajita/Leetcode-repo/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sivarajita/Leetcode-repo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/3691-maximum-total-subarray-value-ii) |
