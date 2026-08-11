@@ -1,7 +1,7 @@
 class Solution {
 public:
     int missingInteger(vector<int>& nums) {
-        int sum = nums[0];
+      int sum = nums[0];
         
         // 1. Calculate sequential prefix sum starting from index 0
         for (int i = 1; i < nums.size(); ++i) {
@@ -20,6 +20,6 @@ public:
             sum++;
         }
         
-        return sum;
+        return sum;  
     }
 };
