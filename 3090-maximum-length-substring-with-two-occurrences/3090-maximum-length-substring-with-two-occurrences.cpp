@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maximumLengthSubstring(string s) {
-        vector<int> freq(26, 0);
+    vector<int> freq(26, 0);
         int max_len = 0;
         int left = 0;
 
@@ -17,6 +17,6 @@ public:
             max_len = std::max(max_len, right - left + 1);
         }
 
-        return max_len;
+        return max_len;    
     }
 };
