@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sivarajita/Leetcode-repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sivarajita/Leetcode-repo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sivarajita/Leetcode-repo/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/sivarajita/Leetcode-repo/tree/master/2029-stone-game-ix) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sivarajita/Leetcode-repo/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sivarajita/Leetcode-repo/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/sivarajita/Leetcode-repo/tree/master/2574-left-and-right-sum-differences) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/sivarajita/Leetcode-repo/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/sivarajita/Leetcode-repo/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sivarajita/Leetcode-repo/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/sivarajita/Leetcode-repo/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sivarajita/Leetcode-repo/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sivarajita/Leetcode-repo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sivarajita/Leetcode-repo/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sivarajita/Leetcode-repo/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/sivarajita/Leetcode-repo/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/sivarajita/Leetcode-repo/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sivarajita/Leetcode-repo/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sivarajita/Leetcode-repo/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -224,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sivarajita/Leetcode-repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/sivarajita/Leetcode-repo/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sivarajita/Leetcode-repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/sivarajita/Leetcode-repo/tree/master/2029-stone-game-ix) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sivarajita/Leetcode-repo/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -352,20 +356,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1140-stone-game-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sivarajita/Leetcode-repo/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sivarajita/Leetcode-repo/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sivarajita/Leetcode-repo/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sivarajita/Leetcode-repo/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sivarajita/Leetcode-repo/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sivarajita/Leetcode-repo/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sivarajita/Leetcode-repo/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/sivarajita/Leetcode-repo/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
