@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
-        unordered_map<int, int> rowMasks;
+       unordered_map<int, int> rowMasks;
 
         for (const auto& seat : reservedSeats) {
             int row = seat[0];
@@ -30,6 +30,6 @@ public:
             }
         }
 
-        return maxFamilies;
+        return maxFamilies; 
     }
 };
