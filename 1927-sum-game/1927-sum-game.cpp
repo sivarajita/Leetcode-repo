@@ -15,5 +15,6 @@ public:
         
         // Bob wins if and only if the balance is exactly 0
         return sum_diff != 0.0;
+        
     }
 };
