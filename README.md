@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sivarajita/Leetcode-repo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sivarajita/Leetcode-repo/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sivarajita/Leetcode-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/sivarajita/Leetcode-repo/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sivarajita/Leetcode-repo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sivarajita/Leetcode-repo/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sivarajita/Leetcode-repo/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/sivarajita/Leetcode-repo/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sivarajita/Leetcode-repo/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/sivarajita/Leetcode-repo/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/sivarajita/Leetcode-repo/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sivarajita/Leetcode-repo/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sivarajita/Leetcode-repo/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sivarajita/Leetcode-repo/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/sivarajita/Leetcode-repo/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/sivarajita/Leetcode-repo/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sivarajita/Leetcode-repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/sivarajita/Leetcode-repo/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sivarajita/Leetcode-repo/tree/master/2029-stone-game-ix) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sivarajita/Leetcode-repo/tree/master/3689-maximum-total-subarray-value-i) |
@@ -381,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/sivarajita/Leetcode-repo/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sivarajita/Leetcode-repo/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sivarajita/Leetcode-repo/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/sivarajita/Leetcode-repo/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sivarajita/Leetcode-repo/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
