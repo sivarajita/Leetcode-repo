@@ -12,9 +12,9 @@ public:
                 min_odd=min(min_odd,x);
             }
         }
-       if(min_odd==INT_MAX||min_even==INT_MAX){
-        return true;
-       } 
-       return min_odd<min_even;
+        if(min_odd==INT_MAX||min_even==INT_MAX){
+            return true;
+        }
+        return min_odd<min_even;
     }
 };
